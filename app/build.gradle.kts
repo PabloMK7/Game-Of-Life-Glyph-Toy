@@ -9,7 +9,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.nothinglondon.sdkdemo"
+        applicationId = "com.pablomk7.conwayglyphtoy"
         minSdk = 34
         targetSdk = 35
         versionCode = 1

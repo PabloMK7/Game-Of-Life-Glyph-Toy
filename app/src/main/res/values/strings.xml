@@ -1,12 +1,6 @@
 <resources>
-    <string name="app_name">Nothing Android SDK Demo</string>
+    <string name="app_name">Conway\'s Game Of Life Glyph Toy</string>
 
-    <string name="toy_name_basic">Basic Demo</string>
-    <string name="toy_summary_basic">Displays a basic image on the matrix.</string>
-
-    <string name="toy_name_animation">Animation Demo</string>
-    <string name="toy_summary_animation">Animates the glyph matrix.</string>
-
-    <string name="toy_name_glyph_button">Glyph Button Demo</string>
-    <string name="toy_summary_glyph_button">Activates the glyph matrix when the glyph button is pressed.</string>
+    <string name="toy_name_animation">Conway\'s Game Of Life</string>
+    <string name="toy_summary_animation">Conway\'s Game of Life Gosper Gun animation.</string>
 </resources>
